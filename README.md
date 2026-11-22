@@ -2,7 +2,7 @@
 
 **PELURU UT x Sekolah Ekspor — "Be a Digital Exporter"**
 
-Selamat datang di repository portofolio tugas mingguan dan studi kasus praktikum ekspor saya! Repository ini merangkum berbagai dokumen analisis, materi promosi, administrasi pengiriman, hingga perencanaan logistik ekspor yang disusun selama mengikuti program **Sekolah Ekspor**.
+Selamat datang di repository portofolio tugas mingguan dan studi kasus praktikum ekspor saya! Repository ini merangkum berbagai dokumen analisis, materi promosi, administrasi pengiriman, hingga perencanaan logistik ekspor yang disusun selama mengikuti program magang atau praktik kerja **Sekolah Ekspor**.
 
 Portofolio ini menampilkan alur kerja praktis perdagangan internasional mulai dari identifikasi produk ekspor potensial, perancangan identitas dan materi promosi, analisis risiko serta pembiayaan ekspor, hingga penyusunan dokumen logistik dan rencana pemuatan barang.
 
