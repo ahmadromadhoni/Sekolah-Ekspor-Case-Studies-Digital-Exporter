@@ -6,7 +6,7 @@ Selamat datang di repository portofolio tugas mingguan dan studi kasus praktikum
 
 Portofolio ini menampilkan alur kerja praktis perdagangan internasional mulai dari identifikasi produk ekspor potensial, perancangan identitas dan materi promosi, analisis risiko serta pembiayaan ekspor, hingga penyusunan dokumen logistik dan rencana pemuatan barang.
 
-**Akses File Berukuran Besar (Google Drive):** File **Pengembangan Media_Promosi.pdf** (10.7 MB) berpotensi lambat atau tertahan saat dimuat di pratinjau GitHub. Tautan baca alternatif tersedia di sini: [Buka Brosur di Google Drive](https://drive.google.com/file/d/1V6IIMr9jhSSA4DQdD267DpbtyiqB-Nsm/view?usp=sharing).
+**Akses File untuk Berukuran Besar (Google Drive):** File **Pengembangan Media_Promosi.pdf** (10.7 MB) berpotensi lambat atau tertahan saat dimuat di pratinjau GitHub. Tautan baca alternatif tersedia di sini: [Buka Brosur di Google Drive](https://drive.google.com/file/d/1V6IIMr9jhSSA4DQdD267DpbtyiqB-Nsm/view?usp=sharing).
 
 ---
 
@@ -51,6 +51,6 @@ Repository ini tersusun ke dalam **8 folder tugas utama** sesuai urutan materi p
 
 - **LinkedIn:** [linkedin.com/in/ahmad-romadhoni](https://www.linkedin.com/in/ahmad-romadhoni)
 - **GitHub:** [github.com/ahmadromadhoni](https://github.com/ahmadromadhoni)
-
+- **Google Drive:** [Buka Arsip di Google Drive](https://drive.google.com/drive/folders/15KA0Pig4AiHYG9n3kPFMtKGMyYrY1nRt?usp=sharing)
 ---
 *Dikembangkan sebagai arsip portofolio tugas dan studi kasus program PELURU UT x Sekolah Ekspor.*
