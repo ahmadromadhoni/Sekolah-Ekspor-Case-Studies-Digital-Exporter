@@ -6,6 +6,8 @@ Selamat datang di repository portofolio tugas mingguan dan studi kasus praktikum
 
 Portofolio ini menampilkan alur kerja praktis perdagangan internasional mulai dari identifikasi produk ekspor potensial, perancangan identitas dan materi promosi, analisis risiko serta pembiayaan ekspor, hingga penyusunan dokumen logistik dan rencana pemuatan barang.
 
+**Akses File Berukuran Besar (Google Drive):** File **Pengembangan Media_Promosi.pdf** (10.7 MB) berpotensi lambat atau tertahan saat dimuat di pratinjau GitHub. Tautan baca alternatif tersedia di sini: [Buka Brosur di Google Drive](https://drive.google.com/file/d/1V6IIMr9jhSSA4DQdD267DpbtyiqB-Nsm/view?usp=sharing).
+
 ---
 
 ## 🛠️ Fokus Kompetensi & Tools
