@@ -23,14 +23,14 @@ Repository ini tersusun ke dalam **8 folder tugas utama** sesuai urutan materi p
 
 | No | Folder / Topik Tugas | Fokus Keluaran & Pembahasan |
 | :- | :--- | :--- |
-| 01 | 01-Identifikasi-Potensi-Produk-Lokal | Riset dan presentasi komoditas lokal yang berpotensi masuk pasar ekspor. |
-| 02 | 02-Pengembangan-Media-Promosi | Desain brosur ekspor berbahasa Inggris yang memuat spesifikasi teknis dan foto produk. |
-| 03 | 03-Identitas-Korporasi-Eksportir | Rancangan kartu nama bisnis eksportir (logo, posisi, dan kontak profesional). |
-| 04 | 04-Analisis-Mitigasi-Risiko-Ekspor | Laporan identifikasi tantangan utama ekspor, dampaknya, dan usulan solusinya. |
-| 05 | 05-Administrasi-Pengiriman-Packing-List | Penyusunan dokumen *Packing List* untuk pengiriman dalam jumlah besar. |
-| 06 | 06-Pembiayaan-Perdagangan-LC | Laporan perbandingan layanan dan syarat pembukaan *Letter of Credit* (L/C) perbankan. |
-| 07 | 07-Strategi-Rantai-Pasok-Forwarder | Pemetaan mitra logistik/*freight forwarder* dan rute sesuai kebutuhan produk. |
-| 08 | 08-Optimasi-Moda-Transportasi-Loading-Plan | Laporan pemilihan moda/kontainer, estimasi waktu/biaya, dan rencana pemuatan (*loading plan*). |
+| 01 | 01-Identifikasi Potensi Produk Lokal | Riset dan presentasi komoditas lokal yang berpotensi masuk pasar ekspor. |
+| 02 | 02-Pengembangan Media Promosi | Desain brosur ekspor berbahasa Inggris yang memuat spesifikasi teknis dan foto produk. |
+| 03 | 03-Identitas Korporasi Eksportir | Rancangan kartu nama bisnis eksportir (logo, posisi, dan kontak profesional). |
+| 04 | 04-Analisis Mitigasi-Risiko Ekspor | Laporan identifikasi tantangan utama ekspor, dampaknya, dan usulan solusinya. |
+| 05 | 05-Administrasi Pengiriman Packing-List | Penyusunan dokumen *Packing List* untuk pengiriman dalam jumlah besar. |
+| 06 | 06-Pembiayaan Perdagangan LC | Laporan perbandingan layanan dan syarat pembukaan *Letter of Credit* (L/C) perbankan. |
+| 07 | 07-Strategi Rantai Pasok Forwarder | Pemetaan mitra logistik/*freight forwarder* dan rute sesuai kebutuhan produk. |
+| 08 | 08-Optimasi Moda Transportasi Loading-Plan | Laporan pemilihan moda/kontainer, estimasi waktu/biaya, dan rencana pemuatan (*loading plan*). |
 
 ---
 
